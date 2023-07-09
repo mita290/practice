@@ -29,7 +29,7 @@ class KthSmallestElement {
                 }
             }
         }
-     //lines 33 to 39 not required   
+     //lines 33 to 37 not required   
      for(int i=0;i<size;i++){
             
             System.out.println(arr[i]);
