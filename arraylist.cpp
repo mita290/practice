@@ -6,8 +6,7 @@ using namespace std;
 
 
 int arr[MAXSIZE];
-int listSize
-=0;
+int listSize=0;
 
 bool isEmpty(){
     return listSize==0;
